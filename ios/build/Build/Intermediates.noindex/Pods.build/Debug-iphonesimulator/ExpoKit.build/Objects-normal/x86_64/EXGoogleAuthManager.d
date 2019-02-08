@@ -1,0 +1,40 @@
+dependencies: \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXGoogleAuthManager.m \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXGoogleAuthManager.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/GoogleSignIn/GoogleSignIn/GoogleSignIn.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/GoogleSignIn/GoogleSignIn/GIDAuthentication.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/GoogleSignIn/GoogleSignIn/GIDGoogleUser.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/GoogleSignIn/GoogleSignIn/GIDProfileData.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/GoogleSignIn/GoogleSignIn/GIDSignIn.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/GoogleSignIn/GoogleSignIn/GIDSignInButton.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/AppAuth.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDAuthState.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDAuthStateChangeDelegate.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDAuthStateErrorDelegate.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDAuthorizationFlowSession.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDAuthorizationRequest.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDExternalUserAgentRequest.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDResponseTypes.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDScopes.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDAuthorizationResponse.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDAuthorizationService.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDError.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDErrorUtilities.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDExternalUserAgent.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDExternalUserAgentSession.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDGrantTypes.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDIDToken.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDRegistrationRequest.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDRegistrationResponse.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDScopeUtilities.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDServiceConfiguration.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDServiceDiscovery.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDTokenRequest.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDTokenResponse.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDTokenUtilities.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDURLSessionProvider.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDAuthState+IOS.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDAuthorizationService+IOS.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDExternalUserAgentIOS.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/AppAuth/OIDExternalUserAgentIOSCustomBrowser.h

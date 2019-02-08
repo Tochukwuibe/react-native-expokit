@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/ExpoKit/ios/Exponent/Kernel/Environment/EXEnvironment.m \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/ExpoKit/ios/Exponent/Analytics/EXAnalytics.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/ExpoKit/ios/Exponent/Kernel/Environment/EXBuildConstants.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelUtil.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Private/CocoaLumberjack/CocoaLumberjack.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Private/CocoaLumberjack/DDLog.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Private/CocoaLumberjack/DDLegacyMacros.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Private/CocoaLumberjack/DDLogMacros.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Private/CocoaLumberjack/DDAssertMacros.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Private/CocoaLumberjack/DDASLLogCapture.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Private/CocoaLumberjack/DDASLLogger.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Private/CocoaLumberjack/DDTTYLogger.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Private/CocoaLumberjack/DDFileLogger.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Private/CocoaLumberjack/DDOSLogger.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/ExpoKit/ios/Exponent/ExpoKit/ExpoKit.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/ExpoKit/ios/Exponent/Kernel/Environment/EXEnvironment.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/Internal/Test/EXTest.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/React/React/RCTBridgeModule.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/React/React/RCTDefines.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/Crashlytics/Crashlytics/Crashlytics.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSAttributes.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSLogging.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSReport.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSStackFrame.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/Crashlytics/Crashlytics/Answers.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/Crashlytics/Crashlytics/ANSCompatibility.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/React/React/RCTUtils.h \
+  /Users/ETH/learn/expo/sandbox/ios/Pods/Headers/Public/React/React/RCTAssert.h

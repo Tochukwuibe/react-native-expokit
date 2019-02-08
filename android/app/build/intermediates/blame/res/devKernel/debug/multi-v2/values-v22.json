@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ETH/learn/expo/sandbox/android/app/build/intermediates/incremental/mergeDevKernelDebugResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/ETH/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1bbc37ce3cb9345cfd34a6d046769a0b/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}

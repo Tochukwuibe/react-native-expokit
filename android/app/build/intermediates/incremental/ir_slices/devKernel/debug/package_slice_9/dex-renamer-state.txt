@@ -1,0 +1,4 @@
+#Thu Feb 07 22:31:19 EST 2019
+base.0=/Users/ETH/learn/expo/sandbox/android/app/build/intermediates/transforms/dexMerger/devKernel/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

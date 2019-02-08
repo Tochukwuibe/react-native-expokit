@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Feb 07 22:30:58 EST 2019
+0.baseType=DIRECTORY
+0.base=/Users/ETH/learn/expo/sandbox/android/app/build/intermediates/merged_assets/devKernelDebug/mergeDevKernelDebugAssets/out
+0.path=kernel-manifest.json
+0.set=ASSET
+count=1
