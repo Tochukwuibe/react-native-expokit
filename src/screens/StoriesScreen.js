@@ -5,8 +5,16 @@ import { Button } from 'react-native-elements';
 
 class StoreisScreen extends Component {
 
-    static navigationOptions = {
-        header: null
+    static navigationOptions = ({ navigation }) => {
+        console.log('the navigation ', navigation); 
+        return ({
+            title: "Camera",
+            headerLeft: (
+                <View>
+                    <Button onPress={() => navigation.pop()} title="Back" />
+                </View>
+            )
+        })
     };
 
     cameraRef = null;
@@ -17,9 +25,11 @@ class StoreisScreen extends Component {
     };
 
     async componentDidMount() {
+
         await Permissions.askAsync(Permissions.AUDIO_RECORDING)
         const { status } = await Permissions.askAsync(Permissions.CAMERA);
         this.setState({ hasCameraPermission: status === 'granted' });
+
     }
 
 
@@ -40,7 +50,9 @@ class StoreisScreen extends Component {
                             style={{
                                 flex: 1,
                                 backgroundColor: 'transparent',
-                                flexDirection: 'row',
+                                justifyContent: 'flex-end',
+                                alignContent: 'center',
+                                width: '100%'
                             }}>
                             {this.renderRecord()}
                             {this.renderFlip()}
@@ -59,15 +71,18 @@ class StoreisScreen extends Component {
     renderRecord() {
 
         return (
-            <Button
+           <TouchableOpacity
                 style={{
-                    flex: 0.1,
+                    
                     alignSelf: 'flex-end',
                     alignItems: 'center',
                 }}
-                title="record"
-                onPress={this.onRecord}
-            />
+                onPress={this.onRecord}>
+                <Text
+                    style={{ fontSize: 18, marginBottom: 10, color: 'white' }}>
+                    {' '}Record{' '}
+                </Text>
+            </TouchableOpacity>
         )
     }
 
