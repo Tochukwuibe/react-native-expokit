@@ -31,11 +31,11 @@ const LinksStack = createStackNavigator({
 });
 
 LinksStack.navigationOptions = {
-  tabBarLabel: 'Links',
+  tabBarLabel: 'Photo',
   tabBarIcon: ({ focused }) => (
     <TabBarIcon
       focused={focused}
-      name={Platform.OS === 'ios' ? 'ios-link' : 'md-link'}
+      name={Platform.OS === 'ios' ? 'ios-camera' : 'md-camera'}
     />
   ),
 };
@@ -45,18 +45,20 @@ const SettingsStack = createStackNavigator({
 });
 
 SettingsStack.navigationOptions = {
-  tabBarLabel: 'Settings',
+  tabBarLabel: 'Map',
   tabBarIcon: ({ focused }) => (
     <TabBarIcon
       focused={focused}
-      name={Platform.OS === 'ios' ? 'ios-options' : 'md-options'}
+      name={Platform.OS === 'ios' ? 'ios-map' : 'md-map'}
     />
   ),
 };
 
 
 const storiesStack = createStackNavigator({
-  Stories: StoreisScreen
+  Stories: {
+    screen: StoreisScreen,
+  }
 })
 
 
@@ -65,19 +67,19 @@ const tabNavigation = createMaterialTopTabNavigator({
   HomeStack,
   LinksStack,
   SettingsStack,
-},{
-  'swipeEnabled': true,
-  animationEnabled: true,
-  tabBarPosition: 'bottom'
-});
+}, {
+    'swipeEnabled': true,
+    animationEnabled: true,
+    tabBarPosition: 'bottom'
+  });
 
 
 export default createStackNavigator({
   Tabs: tabNavigation,
   Stories: storiesStack
 },
-{
-  initialRouteName: 'Tabs',
-  headerMode: 'none'
-}
+  {
+    initialRouteName: 'Tabs',
+    headerMode: 'none'
+  }
 )
