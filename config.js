@@ -1,0 +1,1 @@
+export const STRIPE_KEY = 'pk_test_0XtSHgPNvf9Z5We9jYj1Xrgr'
